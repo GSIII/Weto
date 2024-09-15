@@ -1,1 +1,42 @@
-# weToo
+<h1> Weto </h1>
+<h4> React, Socket.IO를 이용한 실시간 채팅 및 
+챌린지를 통한 운동 동기부여 웹서비스 개발 </h4>
+🗓️ 진행 기간 : 2023.02.11 ~ 2023.02.24 <br />
+🙌 진행 인원 : 5명 (프론트엔드: 3명, 백엔드: 2명)
+
+
+<br />
+
+
+<img src="https://github.com/raelulu/NewKiosk/assets/115077413/dd6f05a5-0d0e-4688-b2d8-06a27ed96488" width="760" height="500"/>
+
+<img src="https://github.com/raelulu/NewKiosk/assets/115077413/413cbc2e-3e96-42d9-940a-521593a60f64" width="760" height="500"/>
+
+
+
+<h3> 🙋‍♂️담당 기능 </h3>
+
+- 회원가입
+- 마이페이지 기능 구현
+
+  
+
+<h3> 🔨 Stack  </h3>
+<h4>  Front-end  </h4>
+<div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+</div>
+<h4>  Back-end  </h4>
+<div>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>
+</div>
+<h4>  Collaboration  </h4>
+<div>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+
+</div>
